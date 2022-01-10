@@ -20,6 +20,7 @@ use App\Http\Controllers\HomeController;
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('sejarah', [HomeController::class, 'sejarah'])->name('sejarah');
+Route::get('jenis', [HomeController::class, 'jenis'])->name('jenis');
 
 Route::get('/dashboard', function () {
     return view('dashboard');

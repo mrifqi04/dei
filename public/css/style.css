@@ -117,9 +117,9 @@ a:hover {
 }
 
 .main-btn {
-    background-color: #ae895c;
+    background-color: #fff;
     color: white;
-    border: 1px solid #ae895c;
+    border: 1px solid #fff;
     margin-top: 34px;
     border-radius: 5px;
 }
@@ -216,7 +216,7 @@ a:hover {
     text-align: left;
     font-weight: 400;
     margin-top: 43px;
-    border-left: 4px solid #ae895c;
+    border-left: 4px solid #fff;
     padding: 12px;
 }
 
@@ -301,7 +301,7 @@ a:hover {
     color: white;
     font-size: 1.8em;
     letter-spacing: 0;
-    border-bottom: 1px dashed #ae895c;
+    border-bottom: 1px dashed #fff;
     padding-bottom: 7px;
 }
 
@@ -386,7 +386,7 @@ a:hover {
 .news {
     padding: 0;
     text-align: center;
-    background: #ae895c;
+    background: #fff;
 }
 
 .new-grids {
@@ -411,7 +411,7 @@ a:hover {
 .new-grid1 h5 {
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 1.5em;
-    color: #ae895c;
+    color: #fff;
     text-transform: capitalize;
     padding: 1em 0;
 }
@@ -480,13 +480,13 @@ img.zoom-img:hover {
 .contact-grid1 h5 {
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 1.5em;
-    color: #ae895c;
+    color: #fff;
     padding: 0.9em 0;
 }
 
 .contact-grid1 h5 span {
     font-family: 'Yanone Kaffeesatz', sans-serif;
-    color: #ae895c;
+    color: #fff;
     display: block;
     margin-top: 16px;
 }
@@ -591,7 +591,7 @@ img.zoom-img:hover {
         width: 93%;
         display: none;
         text-align: center;
-        background: #ae895c;
+        background: #fff;
         opacity: 0.9;
         left: 2em;
         top: 3em;
