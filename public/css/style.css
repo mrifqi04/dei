@@ -134,7 +134,7 @@ a:hover {
 ------------------------------------------------------- */
 
 .banner {
-    background: url(../images/main-banner.jpg) no-repeat center center fixed;
+    /* background: url(../images/main-banner1.jpg) no-repeat center center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -145,11 +145,11 @@ a:hover {
 .banner-info h1 {
     font-family: 'Yanone Kaffeesatz', sans-serif;
     color: #f8f5f1;
-    font-size: 2em;
+    font-size: 10em;
     line-height: 1.4em;
     text-align: center;
     font-weight: 400;
-    margin-top: 50px;
+    margin-top: 150px;
     letter-spacing: 1px;
 }
 
@@ -532,7 +532,7 @@ img.zoom-img:hover {
 
 @media (max-width:2560px) {
     .banner {
-        background: url(../images/main-banner.jpg) no-repeat center center fixed;
+        background: url(../images/main-banner1.jpg) no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
@@ -544,7 +544,7 @@ img.zoom-img:hover {
 
 @media (max-width:1920px) {
     .banner {
-        background: url(../images/main-banner.jpg) no-repeat center center fixed;
+        background: url(../images/main-banner1.jpg) no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
@@ -556,7 +556,7 @@ img.zoom-img:hover {
 
 @media (max-width:1600px) {
     .banner {
-        background: url(../images/main-banner.jpg) no-repeat center center fixed;
+        background: url(../images/main-banner1.jpg) no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;

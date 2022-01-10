@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Bean;
+use App\Models\Manfaat;
 use App\Models\Sejarah;
 use Illuminate\Http\Request;
 
@@ -25,5 +26,12 @@ class HomeController extends Controller
         $beans = Bean::all();
 
         return view('jenis', compact('beans'));
+    }
+
+    public function manfaat()
+    {
+        $manfaat = Manfaat::all();
+
+        return view('manfaat', compact('manfaat'));
     }
 }
