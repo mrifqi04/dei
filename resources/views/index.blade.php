@@ -20,7 +20,7 @@
             <!-- logo -->          
             <!-- info -->
             <div class="banner-info wow fadeIn">
-                <h1>Kopi Jawa Barat</h1>                            
+                <h1>Preanger the Land of Coffee</h1>                            
                 <div class="sociallist-home">
                 
                 </div>
